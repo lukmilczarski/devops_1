@@ -1,1 +1,2 @@
 linia 1
+adding some text to text.txt
